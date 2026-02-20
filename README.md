@@ -28,3 +28,26 @@ These are considered:
 - Hard level problems
 - Common in FAANG interviews
 
+High Frequency Hard Problems
+============================
+
+1. Trapping Rain Water
+   - Two Pointer approach
+   - Stack alternative
+   - O(n) time, O(1) space
+
+2. Word Break
+   - Dynamic Programming
+   - O(n^2) time
+   - Classic DP interview question
+
+Interview Difficulty
+--------------------
+Trapping Rain Water → Medium/Hard
+Word Break → Medium (Hard in variations)
+
+These are common in:
+- Amazon
+- Google
+- Microsoft
+- Flipkart
